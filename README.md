@@ -8,7 +8,7 @@ This project is a funny webpage based on myself. On the webpage I tell you my in
 
 ## Files
 
-#### back.png
+#### **back.png**
 This file is a picture used for the background of the website.
 
 ### challenger.jpg

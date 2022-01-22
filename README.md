@@ -6,9 +6,9 @@
 -------------------
 This project is a funny webpage based on myself. On the webpage I tell you my interests, favourite foods, accomplishments, family tree, and favourite superhero. I also have hyperlinks that show you videos of me playing football, soccer, basketball, or hockey. 
 
-## Files
+# Files
 
-#### **back.png**
+### **back.png**
 This file is a picture used for the background of the website.
 
 ### challenger.jpg
